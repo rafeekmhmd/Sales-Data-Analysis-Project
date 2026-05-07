@@ -14,7 +14,7 @@ End-to-end Retail Sales Data Analysis using Python. This project demonstrates da
 - Features: Order Date, Category, Product, Quantity, Sales, Region, Customer Type
 
 ## 🔍 Key Insights
-- Total Revenue: **₹1,25,XXX** *(Update this number from your notebook)*
+- Total Revenue: **₹1,25,XXX** 
 - Top Category: **Electronics**
 - Returning customers generate significantly higher revenue
 - Positive correlation between Quantity and Sales Amount
